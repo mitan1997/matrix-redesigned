@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\Betty Rachmad\Google_Drive\Personal Projects\Matrix\Matrix\main.cpp(19): warning C4172: returning address of local variable or temporary
-  Matrix.vcxproj -> C:\Users\Betty Rachmad\Google_Drive\Personal Projects\Matrix\Matrix\x64\Debug\Matrix.exe
