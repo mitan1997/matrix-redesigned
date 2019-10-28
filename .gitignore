@@ -341,3 +341,4 @@ healthchecksdb
 
 # Microsoft Visual Studios
 /Matrix/*.sln
+/Matrix/*.filters
