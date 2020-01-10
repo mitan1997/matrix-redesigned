@@ -342,6 +342,7 @@ healthchecksdb
 # Microsoft Visual Studios
 /Matrix/*.sln
 /Matrix/*.filters
+/Matrix/out
 
 # CLion
 */CMakeLists.txt
